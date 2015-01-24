@@ -1,748 +1,749 @@
-onset time,description,
-0:13,pface 1,"pro pic, face, first person"
-0:15,pface 2,"pro pic, face, 2nd person"
-0:16,pface 3,"pro pic, face, 3rd person"
-0:16:30,pface 1,"pro face, first person"
-0:15:05,pcaption,pro caption
-0:16,pdetail (person 1),"pro, person's body but not face, 4th person"
-0:16:05,pdetail,
-0:17,pdetail,
-0:18,pinterface,
-0:19,pcaption,
-0:19:05,pface 1,
-0:20,pinterface,
-0:21,pcaption,
-0:21:05,pdetail ,
-0:22,pface 1,
-0:23,pinterface,
-0:24,pface 1,
-0:24,pinterface,
-0:25,pface 1,
-0:25:05,caption,
-0:29,pinterface,
-0:29,pface 1,
-0:30,pdetail (on person 1),
-0:31,pface 2,
-0:31:05,pface 1,
-0:32,pinterface,"pro pic, rating for quality"
-0:33,interface,"pro pic, rating for sharing"
-next pic 2,next pic 2,
-0:55,pbackground,
-0:55:05,pface 1,
-0:56,pface 2,
-0:56:05,pdetail,
-0:57,pface 1,
-0:57:05,pface 2,
-0:58,pcaption,
-0:59,pinterface,
-0:59:05,pcaption,
-1:07,pinterface,
-1:07:05,pcaption,
-1:12,pinterface,
-1:12:30,pcaption,
-1:13,pinterface,
-1:13:30,pface 1,
-1:14,pdetail (person 1),
-1:15,pface 1,
-1:15:30,pbackground,
-1:16,pdetail,"(codes will change to ""uface 1,"" etc for UGC images)"
-1:17,pbackground,
-1:17:30,pdetail,"What I'd like to find from this: 1. how much time on faces, photo details, background, captions."
-1:18,pdetail,"             2. Differences in length of time between pro and UGC, of course. Differences in age, (gender, I don't care about as much.)"
-next pic 3,next pic 3,
-1:19,pinterface,"3. How much time is concentrated on interaction between people in photos. Maybe if that relates to the images they said they remembered most, from the exit interviews."
-1:19:30,pface 1,
-1:20,pdetail (person 1),
-1:21,pinterface,
-1:22,pcaption,
-1:24,pdetail (person 1),
-1:24:30,pinterface,
-1:25,pcaption,
-1:26,pinterface,
-1:27,pcaption,
-1:27:30,pface 1,
-1:28,pcaption,
-1:30,pface 1,
-1:30:30,pdetail (person 1),
-1:31,pface 1,
-1:31:30,pdetail (person 1),
-next pic 4,next pic 4,
-1:33,uperson 1,
-1:34,uface 1,
-1:34:30,uinterface,
-1:35,ucaption,
-1:35:30,uface 2,
-1:36,uface 3,
-1:36:30,uinterface,
-1:37,uface 4,
-1:37:30,uperson 1,
-1:38,uinterface,
-1:38:30,uface 3,
-1:39,ucaption,
-1:39:30,uinterface,
-1:40,ucaption,
-1:41,uinterface,
-1:41:30,uface 1,
-1:42,uface 2,
-1:42:30,uface 4,
-1:43,ucaption,
-1:43:30,uinterface,
-next pic 5,next pic 5,
-1:44,pperson 1,
-1:45,pcaption,
-1:51:00,pdetail (person 1),
-1:52,pface 1,
-1:53,pcaption,
-1:54,pdetail (person 1),
-next pic 6,next pic 6,
-1:54:30,ubackground,
-1:55,ubackground,
-1:55,ubackground,
-1:56,ucaption,
-1:56:30,uinterface,
-1:57,uinterface,
-1:58,ucaption,
-1:59,ubackground,
-1:59:30,ucaption,
-next pic 7,next pic 7,
-2:07,pdetail (person 1),
-2:08,pinterface,
-2:08:30,pcaption,
-2:09,pface 1,
-2:09:30,pface 2,
-2:10,pcaption,
-2:25,pinterface,
-2:26,pface 1,
-2:26:30,pface 2,
-2:27,pinterface,
-2:27:30,pinterface,
-2:28,pdetail (person 1),
-2:28:30,pface 2,
-2:29,pface 1,
-2:29:30,pface 2,
-next pic 8,next pic 8,
-2:30,udetail,
-2:31,udetail,
-2:31:30,ucaption,
-2:32,uinterface,
-2:33,uinterace,
-2:33:30,udetail,
-2:34,uinterface,
-next pic 9,next pic 9,
-2:38,pface 1,
-2:38:30,pdetail (person 1),
-2:42,pcaption,
-2:51,pinterface,
-2:51:30,pface 2,
-2:52,pperson,
-2:53,pface 3,
-2:53:30,pperson,
-2:54,pface 2,
-2:54:30,pface 1,
-2:55,pinterface,
-2:55:30,pdetail,
-next pic 10,next pic 10,
-2:59,ucaption,
-3:01,uinterface,
-3:01:30,udetail,
-3:02,ubackground,
-3:02:30,udetail,
-3:03,udetail,
-3:03:30,udetail,
-3:04,udetail,
-3:05,ubackground,
-3:05:30,uinterface,
-3:07,uinterface,
-3:07:30,udetail,
-3:08,upcaption,
-3:10,ubackground,
-3:11,udetail,
-3:12,ubackground,
-3:13,ubackground,
-3:14,ubackground,
-next pic 11,next pic 11,
-3:15,pdetail (person 1),
-3:16,uinterface,
-3:16:30,uface 2,
-3:17,udetail,
-3:17:30,pdetail (person 1),
-3:18,pdetail (person 1),
-3:18:30,ucaption,
-3:19,uinterface ,
-3:19:30,ucaption,
-3:25,uinterface,
-3:25:30,uinterface,
-next pic 12,next pic 12,
-3:26,pdetail (person 1),
-3:26:30,pdetail (person 1),
-3:27,uface 1,
-3:28,uinterface,
-3:29,ucaption,
-3:29:30,uinterface,
-3:30:30,pdetail (person 1),
-3:31,uface 1,
-3:32,uface 2,
-3:33,uinterface,
-3:35,ucaption,
-next pic 13,next pic 13,
-3:37,pface 1,
-3:38,pinterface,
-3:38:30,pcaption,
-3:39,pinterface,
-3:39:30,pcaption,
-3:41,pface 1,
-3:43,pdetail (person 1),
-3:43:30,pface 1,
-3:45,pinterface,
-3:45,pdetail (person 1),
-next pic 14,next pic 14,
-3:46,pdetail (person 1),
-3:47,pdetail (person 2),
-3:47:30,pinterface,
-3:48,pcaption,
-3:48:30,pdetail (person 2),
-3:49:30,pcaption,
-3:52,pdetail (person 2),
-3:52:30,pdetail (person 2),
-3:54,pdetail (person 1),
-3:55,pdetail,
-3:55:30,pdetail (person 2),
-3:56,pcaption,
-3:58,pinterface,
-3:58:30,pinterface,
-3:59,pcaption,
-next pic 15,next pic 15,
-4:00,pdetail (person 1),
-4:01,ucaption,
-4:02,uinterface,
-4:02:30,ucaption,
-4:03,udetail,
-4:03:30,pdetail (person 1),
-4:04,pdetail (person 1),
-4:04:30,uinterface,
-4:05,uinterface ,
-4:05:30,upersonbody 1,
-4:06,upersonbody 2,
-4:06:30,upersonbody 1,
-4:07,uinterface,
-next pic 16,next pic 16 (didn't load),
-next pic 17,next pic 17,
-4:15,udetail,
-4:15:30,udetail (person 1),
-4:16,udetail,
-4:16:30,uinterface,
-4:17,ucaption,
-4:26,udetail (person 1),
-4:26:30,udetail,
-4:27,uinterface,
-4:27:30,udetail,
-next pic 18,next pic 18,
-4:28,udetail,
-4:29,uface 1,
-4:30,uinterface,
-4:30:30,ucaption,
-4:31,uinterface,
-4:31:30,ucaption,
-4:33,uface 2,
-next pic 19,next pic 19,
-4:38,pface 1,
-4:39,pinterface,
-4:39:30,pcaption,
-4:40,pdetail,
-4:41,pcaption,
-4:47,pinterface,
-4:48,pcaption,
-next pic 20,next pic 20,
-4:52,uface 1,
-4:53,udetail,
-4:53:30,ucaption,
-4:55,udetail,
-4:56,uface 1,
-4:56:30,uinterface,
-4:57,ucaption,
-4:58,uinterface,
-4:59,udetail,
-next pic 21,next pic 21,
-5:00,pface 1,
-5:02,pdetail (person 1),
-5:03,pface 1,
-5:03:30,pdetail,
-5:04,pinterface,
-5:04:30,pcaption,
-5:06,pinterface,
-5:06:30,pcaption,
-5:07,pface 1,
-5:07:30,pdetail,
-5:08,pinterface,
-5:08:30,pcaption,
-5:10,pinterface,
-5:11,pinterface ,
-5:11:30,pinterface,
-5:12,pcaption,
-next pic 22,next pic 22,
-5:13,ucaption,
-5:13:30,udetail,
-5:14,uinterface ,
-5:14:30,ucaption,
-5:20,udetail,
-5:21,uface 1,
-5:21:30,udetail,
-5:22,uinterface,
-next pic 23,next pic 23,
-5:25,pcaption,
-5:25:30,pdetail,
-5:26,pdetail,
-5:27,pface 1,
-5:27:30,pface 2,
-5:28,pdetail,
-5:28:30,pcaption,
-5:33,pinterface,
-5:34,pface 1,
-5:34:30,pinterface ,
-5:35,pface 2,
-5:36,pdetail,
-5:36:30,pdetail,
-5:37,pdetail,
-5:38,pbackground,
-next pic 24,next pic 24,
-5:40,uface 1,
-5:40:30,pdetail (person 1),
-5:41,uinterface ,
-5:41:30,ucaption,
-5:42,uinterface,
-5:43,uface 1,
-5:44,udetail (person 1),
-5:44:30,ubackground,
-5:45,udetail,
-5:46,uinterface,
-next pic 25,next pic 25,
-5:48,udetail (person 1),
-5:49,ucaption,
-5:51,uface 1,
-5:51:30,uinterface,
-5:52,ucaption,
-5:53,uface 1,
-next pic 26,next pic 26,
-5:54,pface 1,
-5:54:30,pface 2,
-5:55,pcaption,
-5:59,pface 1,
-6:00,pface 2,
-6:01,pcaption,
-6:01:30,pface 1,
-6:02,pinterface,
-6:02:30,pbackground,
-6:03,pface 2,
-6:03:30,pdetail (person 3),
-6:04,pface 2,
-6:04:30,pbackground,
-6:05,pinterface,
-6:05:30,pdetail,
-next pic 27,next pic 27,
-6:07,pface 1,
-6:07:30,pdetail (person 2),
-6:08,pcaption,
-6:12,pface 1,
-6:12:30,pdetail (person 3),
-6:13,pdetail (person 3),
-6:13:30,pface 1,
-6:14,pface 4,
-6:15,pcaption,
-6:16,pdetail (person 1),
-6:16:30,pbackground,
-6:17,pinterface,
-next pic 28,next pic 28,
-6:18,udetail,
-6:18,uinterface,
-6:19,udetail,
-6:20,ucaption,
-6:21,udetail,
-6:22,uinterface,
-next pic 29,next pic 29,
-6:24,pface 1,
-6:25,pface 2,
-6:25:30,pcaption,
-6:26,pbackground,
-6:27,pface 1,
-6:28,pface 2,
-6:28:30,pdetail (person 3),
-6:29,pbackground,
-6:29:30,pface 1,
-6:30,pface 2,
-6:31,pinterface,
-6:31:30,pface 1,
-6:32,pcaption,
-6:33,pdetail,
-6:33,pface 1,
-next pic 30,next pic 30,
-6:34,uface 1,
-6:34:30,ucaption,
-6:38,ubackground,
-6:39,ubackground,
-6:39:30,ucaption,
-6:40,uinterface,
-next pic 31,next pic 31,
-6:41,pface 1,
-6:42,pface 2,
-6:42:30,pdetail (person 1),
-6:43,pdetail,
-6:43:30,pcaption,
-6:44,pdetail (person 1),
-6:45,pface 3,
-6:45:30,pdetail (person 4),
-6:46,pcaption,
-6:47,pdetail (person 1),
-next pic 32,next pic 32,
-6:49,uface 1,
-6:49:30,udetail,
-6:50,ucaption,
-6:52,uinterface,
-6:52:30,udetail,
-6:54,udetail (person 1),
-next pic 33,next pic 33,
-6:56,pdetail (person 1),
-6:56:30,pface 1,
-6:57,pcaption,
-6:57,pdetail (person 1),
-6:58,pcaption,
-6:59,pdetail,
-6:59:30,pcaption,
-7:02,pdetail (person 1),
-7:02:30,pface 1,
-7:03,pcaption,
-7:05,pdetail (person 1),
-next pic 34,next pic 34,
-7:06,uface 1,
-7:06:30,uinterface,
-7:07,ucaption,
-7:07:30,uface 1,
-7:08,ubackground,
-7:09,ubackground,
-7:09:30,uextraneous object,
-7:11,ubackground,
-7:11:30,ubackground,
-7:12,ubackground,
-7:12:30,ubackground,
-7:13,ubackground,
-next pic 35,next pic 35,
-7:13:30,pface 1,
-7:14,pdetail (person 1),
-7:14:30,pextraneous object,
-7:15,pcaption,
-7:15:30,pdetail (person 1),
-7:16,pdetail (person 1),
-7:16:30,pbackground,
-7:17,pdetail (person 1),
-7:17:30,pdetail (person 1),
-7:18,pface 1,
-next pic 36,next pic 36,
-7:18,uface 1,
-7:18:30,udetail (person 2),
-7:19,ucaption,
-7:19:30,uface 3,
-7:20,udetail (person 3),
-7:20:30,uface 4,
-7:21,uface 5,
-7:22,udetail,
-7:22:30,ucaption,
-next pic 37,next pic 37,
-7:25,uface 1,
-7:25:30,uinterface,
-7:26,udetail,
-7:26:30,udetail,
-7:27,uface 2,
-7:27:30,uface 1,
-7:28,ucaption,
-7:30,uinterface,
-7:30:30,uface 1,
-next pic 38,next pic 38,
-7:31,pdetail,
-7:31:30,pface 1,
-7:32,pdetail,
-7:33,pbackground,
-7:34,pcaption,
-7:35,pface 1,
-7:35:30,pface 2,
-7:36,pface 1,
-7:37,pbackground,
-7:37:30,pdetail (person 1),
-7:38,pinterface,
-7:38:30,pdetail,
-7:39,pdetail (person 1),
-next pic 39,next pic 39,
-7:39:30,uface 1,
-7:40,udetail,
-7:40,uface 2,
-7:41:00,uface 1,
-7:41:30,uextraneous object,
-7:42,ucaption,
-7:42:30,udetail,
-next pic 40,next pic 40,
-7:44,pface 1,
-7:45,pdetail (person 1),
-7:45:30,pdetail (person 1),
-7:47,pdetail (person 1),
-7:48,pdetail (person 1),
-7:48:30,pcaption,
-7:52,pinterface,
-7:52:30,pcaption,
-7:53,pdetail (person 1),
-7:54,pbackground,
-7:55,pdetail,
-7:55,pdetail (person 1),
-7:55:30,pdetail (person 1),
-7:56,pdetail,
-7:56:30,pface 1,
-7:57,pdetail (person 1),
-7:57:30,pdetail (person 1),
-next pic 41,next pic 41,
-7:58,udetail,
-7:58:30,uinterface,
-7:59,ucaption,
-8:00,udetail,
-8:00:30,uinterface,
-8:02,ubackground,
-8:02:30,udetail,
-next pic 42,next pic 42,
-8:03,pface 1,
-8:03:30,pinterface,
-8:04,pface 1,
-8:04:30,pinterface,
-8:05,pcaption,
-8:06,pdetail (person 1),
-8:06:30,pdetail,
-8:07,pinterface,
-next pic 43,next pic 43,
-8:08,udetail,
-8:09,udetail,
-8:10,udetail,
-8:10:30,ucaption,
-8:12,uinterface,
-8:12:30,ucaption,
-next pic 44,next pic 44,
-8:16,pdetail (person 1),
-8:16:30,pface 1,
-8:17,pinterface,
-8:17:30,pdetail (person 1),
-8:18,pinterface,
-8:19,pcaption,
-8:20,pface 1,
-8:20:30,pdetail (person 1),
-8:21,pinterface,
-8:21:30,pcaption,
-8:24,pface 1,
-8:25,pdetail (person 1),
-8:26,pdetail (person 2),
-next pic 45,next pic 45,
-8:26,uface 1,
-8:27,uface 2,
-8:28,uinterface,
-8:28:30,ucaption,
-8:29,uinterface,
-8:29:30,uface 3,
-8:30,uface 1,
-8:30:30,uface 4,
-8:31,uinterface,
-next pic 46,next pic 46,
-8:34,pdetail,
-8:35,pcaption,
-8:39,pinterface,
-8:39:30,pdetail,
-8:40,pcaption,
-8:42,pdetail,
-8:43,pdetail,
-8:44,pinterface,
-8:44:30,pdetail,
-8:45,pdetail,
-8:45:30,pdetail,
-8:46,pdetail,
-next pic 47,next pic 47,
-8:48,uface 1,
-8:48:30,uinterface,
-8:49,ucaption,
-8:50,uinterface,
-next pic 48,next pic 48,
-8:51,pface 1,
-8:51:30,pface 2,
-8:52,pcaption,
-8:54,pface 2,
-8:54:30,pface 3,
-8:55,pface 2,
-8:55:30,pinterface,
-8:57,pdetail (person 2),
-8:57:30,pface 1,
-8:58,pface 4,
-next pic 49,next pic 49,cnnireport
-8:58:30,uface 1,
-8:59,uinterface,
-8:59,ucaption,
-9:01,uface 1,
-9:01:30,uface 2,
-9:02,uextraneous detail,
-9:02:30,uinterface,
-9:03,udetail (person 1),
-9:03:30,uface 1,
-9:04,uinterface,
-next pic 50,next pic 50,
-9:04,pdetail (person 1),
-9:05,pface 1,
-9:05:30,pinterface,
-9:06,pdetail (person 1),
-9:07,pcaption,
-9:08,pinterface,
-9:08:30,pdetail,
-9:09,pdetail (person 1),
-9:09:30,pdetail (person 1),
-9:10,pface 1,
-next pic 51,next pic 51,
-9:11,pface 1,
-9:11:30,pdetail (person 2),
-9:12,pinterface,
-9:12:30,pcaption,
-9:13,pdetail (person 1),
-9:14,pdetail (person 2),
-9:14:30,pdetail (person 2),
-next pic 52,next pic 52,
-9:15,ubackground,
-9:15:30,udetail (person 1),
-9:16,udetail,
-9:17,uinterface,
-9:17:30,ucaption,
-9:18,ubackground,
-9:18:30,udetail (person 1),
-9:19,uinterface,
-9:19:30,ubackground,
-9:20,uinterface,
-next pic 53,next pic 53,
-9:22,uface 1,
-9:22:30,uface 2,
-9:23,uinterface,
-9:23:30,ucaption,
-next pic 54,next pic 54,
-9:25,pdetail (person 1),
-9:26,pdetail (person 2),
-9:27,pdetail (person 3),
-9:28,pinterface,
-9:30,pcaption,
-9:33,pdetail (person 1),
-9:34,pdetail (person 2),
-next pic 55,next pic 55,
-9:35,udetail,
-9:36,uinterface,
-9:36:30,ucaption,
-9:37,udetail,
-9:37:30,udetail,
-next pic 56,next pic 56,
-9:41,udetail,
-9:41:30,udetail,
-9:42,uinterface,
-9:44,ucaption,
-9:46,ubackground,
-next pic 57,next pic 57,
-9:46,pdetail,
-9:47,pdetail,
-9:47:30,pinterface,
-9:48,pbackground,
-9:48:30,pdetail,
-9:48,pinterface,
-9:48,pbackground,
-9:49,pdetail,
-9:50,pdetail,
-9:50:30,pface 1,
-9:51,pdetail,
-9:52,pbackground,
-9:52:30,pface 1,
-9:53,pbackground,
-9:53:30,pdetail,
-next pic 58,next pic 58,
-9:54,udetail,
-9:56,udetail (person 1),
-9:56:30,ubackground,
-next pic 59,next pic 59,
-9:57,pdetail (person 1),
-9:58,pdetail (person 1),
-9:58:30,pinterface,
-9:59,pdetail (person 1),
-10:00,pcaption,
-10:01,pdetail (person 1),
-10:01:30,pdetail (person 1),
-10:02,pdetail (person 1),
-10:02:30,pcaption,
-10:10,pdetail (person 1),
-next pic 60,next pic 60,
-10:11,pface 1,
-10:11:30,pinterface,
-10:12,pface 2,
-10:12:30,pface 3,
-10:13,pdetail,
-10:13:30,pdetail,
-10:14,pinterface,
-10:14:30,pcaption,
-10:15:30,pinterface,
-10:16,pdetail,
-10:16:30,pdetail,
-next pic 61,next pic 61,
-10:17,udetail,
-10:18,udetail (person 1),
-10:18:30,udetail (person 2),
-10:19,uinterface,
-10:20,udetail (person 2),
-10:20:30,ucaption,
-10:21,uinterface,
-10:21:30,ucaption,
-next pic 62,next pic 62,
-10:22:30,udetail,
-10:24,uinterface,
-10:24:30,udetail,
-10:25,uface 1,
-10:26,uinterface,
-10:26:30,ucaption,
-next pic 63,next pic 63,
-10:28,pinterface,
-10:29,pcaption,
-10:31,pdetail,
-next pic 64,next pic 64,
-10:32,pdetail,
-10:32:30,pface 1,
-10:33,pinterface,
-10:34,pcaption,
-next pic 65,next pic 65,
-10:35,udetail (person 1),
-10:35:30,udetail (person 1),
-10:36,udetail (person 1),
-10:37,uinterface,
-10:37:30,uface 1,
-10:38,ucaption,
-10:39,udetail (person 1),
-10:39:30,uinterface,
-10:40,udetail (person 1),
-next pic 66, next pic 66,
-10:40:30,udetail,
-10:41,udetail,
-10:41:30,udetail,
-10:42,uinterface,
-10:42:30,ucaption,
-10:43,uinterface,
-next pic 67,next pic 67,
-10:46,pdetail,
-10:47,pface 1,
-10:47:30,pdetail (person 1),
-10:48,pface 2,
-10:48:30,pface 1,
-10:49,pinterface,
-10:49:30,pface 1,
-next pic 68,next pic 68,
-10:50,uface 1,
-10:52,udetail (person 1),
-10:52:30,uinterface,
-10:53,ucaption,
-next pic 69,next pic 69,
-10:55,pface 1,
-10:55:30,pface 2,
-10:56,pinterface,
-10:57,pface 1,
-10:57:30,pdetail,
-10:58,pface 2,
-10:58:30,pface 1,
-10:59,pinterface,
-10:59:30,pface 2,
+onset time,description
+next pic 13,next pic 1
+0:13,pface 1
+0:15,pface 2
+0:16,pface 3
+0:16:30,pface 1
+0:15:05,pcaption
+0:16,pdetail (person 1)
+0:16:05,pdetail
+0:17,pdetail
+0:18,pinterface
+0:19,pcaption
+0:19:05,pface 1
+0:20,pinterface
+0:21,pcaption
+0:21:05,pdetail 
+0:22,pface 1
+0:23,pinterface
+0:24,pface 1
+0:24,pinterface
+0:25,pface 1
+0:25:05,caption
+0:29,pinterface
+0:29,pface 1
+0:30,pdetail (on person 1)
+0:31,pface 2
+0:31:05,pface 1
+0:32,pinterface
+0:33,interface
+next pic 2,next pic 2
+0:55,pbackground
+0:55:05,pface 1
+0:56,pface 2
+0:56:05,pdetail
+0:57,pface 1
+0:57:05,pface 2
+0:58,pcaption
+0:59,pinterface
+0:59:05,pcaption
+1:07,pinterface
+1:07:05,pcaption
+1:12,pinterface
+1:12:30,pcaption
+1:13,pinterface
+1:13:30,pface 1
+1:14,pdetail (person 1)
+1:15,pface 1
+1:15:30,pbackground
+1:16,pdetail
+1:17,pbackground
+1:17:30,pdetail
+1:18,pdetail
+next pic 3,next pic 3
+1:19,pinterface
+1:19:30,pface 1
+1:20,pdetail (person 1)
+1:21,pinterface
+1:22,pcaption
+1:24,pdetail (person 1)
+1:24:30,pinterface
+1:25,pcaption
+1:26,pinterface
+1:27,pcaption
+1:27:30,pface 1
+1:28,pcaption
+1:30,pface 1
+1:30:30,pdetail (person 1)
+1:31,pface 1
+1:31:30,pdetail (person 1)
+next pic 4,next pic 4
+1:33,uperson 1
+1:34,uface 1
+1:34:30,uinterface
+1:35,ucaption
+1:35:30,uface 2
+1:36,uface 3
+1:36:30,uinterface
+1:37,uface 4
+1:37:30,uperson 1
+1:38,uinterface
+1:38:30,uface 3
+1:39,ucaption
+1:39:30,uinterface
+1:40,ucaption
+1:41,uinterface
+1:41:30,uface 1
+1:42,uface 2
+1:42:30,uface 4
+1:43,ucaption
+1:43:30,uinterface
+next pic 5,next pic 5
+1:44,pperson 1
+1:45,pcaption
+1:51:00,pdetail (person 1)
+1:52,pface 1
+1:53,pcaption
+1:54,pdetail (person 1)
+next pic 6,next pic 6
+1:54:30,ubackground
+1:55,ubackground
+1:55,ubackground
+1:56,ucaption
+1:56:30,uinterface
+1:57,uinterface
+1:58,ucaption
+1:59,ubackground
+1:59:30,ucaption
+next pic 7,next pic 7
+2:07,pdetail (person 1)
+2:08,pinterface
+2:08:30,pcaption
+2:09,pface 1
+2:09:30,pface 2
+2:10,pcaption
+2:25,pinterface
+2:26,pface 1
+2:26:30,pface 2
+2:27,pinterface
+2:27:30,pinterface
+2:28,pdetail (person 1)
+2:28:30,pface 2
+2:29,pface 1
+2:29:30,pface 2
+next pic 8,next pic 8
+2:30,udetail
+2:31,udetail
+2:31:30,ucaption
+2:32,uinterface
+2:33,uinterace
+2:33:30,udetail
+2:34,uinterface
+next pic 9,next pic 9
+2:38,pface 1
+2:38:30,pdetail (person 1)
+2:42,pcaption
+2:51,pinterface
+2:51:30,pface 2
+2:52,pperson
+2:53,pface 3
+2:53:30,pperson
+2:54,pface 2
+2:54:30,pface 1
+2:55,pinterface
+2:55:30,pdetail
+next pic 10,next pic 10
+2:59,ucaption
+3:01,uinterface
+3:01:30,udetail
+3:02,ubackground
+3:02:30,udetail
+3:03,udetail
+3:03:30,udetail
+3:04,udetail
+3:05,ubackground
+3:05:30,uinterface
+3:07,uinterface
+3:07:30,udetail
+3:08,upcaption
+3:10,ubackground
+3:11,udetail
+3:12,ubackground
+3:13,ubackground
+3:14,ubackground
+next pic 11,next pic 11
+3:15,pdetail (person 1)
+3:16,uinterface
+3:16:30,uface 2
+3:17,udetail
+3:17:30,pdetail (person 1)
+3:18,pdetail (person 1)
+3:18:30,ucaption
+3:19,uinterface 
+3:19:30,ucaption
+3:25,uinterface
+3:25:30,uinterface
+next pic 12,next pic 12
+3:26,pdetail (person 1)
+3:26:30,pdetail (person 1)
+3:27,uface 1
+3:28,uinterface
+3:29,ucaption
+3:29:30,uinterface
+3:30:30,pdetail (person 1)
+3:31,uface 1
+3:32,uface 2
+3:33,uinterface
+3:35,ucaption
+next pic 13,next pic 13
+3:37,pface 1
+3:38,pinterface
+3:38:30,pcaption
+3:39,pinterface
+3:39:30,pcaption
+3:41,pface 1
+3:43,pdetail (person 1)
+3:43:30,pface 1
+3:45,pinterface
+3:45,pdetail (person 1)
+next pic 14,next pic 14
+3:46,pdetail (person 1)
+3:47,pdetail (person 2)
+3:47:30,pinterface
+3:48,pcaption
+3:48:30,pdetail (person 2)
+3:49:30,pcaption
+3:52,pdetail (person 2)
+3:52:30,pdetail (person 2)
+3:54,pdetail (person 1)
+3:55,pdetail
+3:55:30,pdetail (person 2)
+3:56,pcaption
+3:58,pinterface
+3:58:30,pinterface
+3:59,pcaption
+next pic 15,next pic 15
+4:00,pdetail (person 1)
+4:01,ucaption
+4:02,uinterface
+4:02:30,ucaption
+4:03,udetail
+4:03:30,pdetail (person 1)
+4:04,pdetail (person 1)
+4:04:30,uinterface
+4:05,uinterface 
+4:05:30,upersonbody 1
+4:06,upersonbody 2
+4:06:30,upersonbody 1
+4:07,uinterface
+next pic 16,next pic 16 (didn't load)
+next pic 17,next pic 17
+4:15,udetail
+4:15:30,udetail (person 1)
+4:16,udetail
+4:16:30,uinterface
+4:17,ucaption
+4:26,udetail (person 1)
+4:26:30,udetail
+4:27,uinterface
+4:27:30,udetail
+next pic 18,next pic 18
+4:28,udetail
+4:29,uface 1
+4:30,uinterface
+4:30:30,ucaption
+4:31,uinterface
+4:31:30,ucaption
+4:33,uface 2
+next pic 19,next pic 19
+4:38,pface 1
+4:39,pinterface
+4:39:30,pcaption
+4:40,pdetail
+4:41,pcaption
+4:47,pinterface
+4:48,pcaption
+next pic 20,next pic 20
+4:52,uface 1
+4:53,udetail
+4:53:30,ucaption
+4:55,udetail
+4:56,uface 1
+4:56:30,uinterface
+4:57,ucaption
+4:58,uinterface
+4:59,udetail
+next pic 21,next pic 21
+5:00,pface 1
+5:02,pdetail (person 1)
+5:03,pface 1
+5:03:30,pdetail
+5:04,pinterface
+5:04:30,pcaption
+5:06,pinterface
+5:06:30,pcaption
+5:07,pface 1
+5:07:30,pdetail
+5:08,pinterface
+5:08:30,pcaption
+5:10,pinterface
+5:11,pinterface 
+5:11:30,pinterface
+5:12,pcaption
+next pic 22,next pic 22
+5:13,ucaption
+5:13:30,udetail
+5:14,uinterface 
+5:14:30,ucaption
+5:20,udetail
+5:21,uface 1
+5:21:30,udetail
+5:22,uinterface
+next pic 23,next pic 23
+5:25,pcaption
+5:25:30,pdetail
+5:26,pdetail
+5:27,pface 1
+5:27:30,pface 2
+5:28,pdetail
+5:28:30,pcaption
+5:33,pinterface
+5:34,pface 1
+5:34:30,pinterface 
+5:35,pface 2
+5:36,pdetail
+5:36:30,pdetail
+5:37,pdetail
+5:38,pbackground
+next pic 24,next pic 24
+5:40,uface 1
+5:40:30,pdetail (person 1)
+5:41,uinterface 
+5:41:30,ucaption
+5:42,uinterface
+5:43,uface 1
+5:44,udetail (person 1)
+5:44:30,ubackground
+5:45,udetail
+5:46,uinterface
+next pic 25,next pic 25
+5:48,udetail (person 1)
+5:49,ucaption
+5:51,uface 1
+5:51:30,uinterface
+5:52,ucaption
+5:53,uface 1
+next pic 26,next pic 26
+5:54,pface 1
+5:54:30,pface 2
+5:55,pcaption
+5:59,pface 1
+6:00,pface 2
+6:01,pcaption
+6:01:30,pface 1
+6:02,pinterface
+6:02:30,pbackground
+6:03,pface 2
+6:03:30,pdetail (person 3)
+6:04,pface 2
+6:04:30,pbackground
+6:05,pinterface
+6:05:30,pdetail
+next pic 27,next pic 27
+6:07,pface 1
+6:07:30,pdetail (person 2)
+6:08,pcaption
+6:12,pface 1
+6:12:30,pdetail (person 3)
+6:13,pdetail (person 3)
+6:13:30,pface 1
+6:14,pface 4
+6:15,pcaption
+6:16,pdetail (person 1)
+6:16:30,pbackground
+6:17,pinterface
+next pic 28,next pic 28
+6:18,udetail
+6:18,uinterface
+6:19,udetail
+6:20,ucaption
+6:21,udetail
+6:22,uinterface
+next pic 29,next pic 29
+6:24,pface 1
+6:25,pface 2
+6:25:30,pcaption
+6:26,pbackground
+6:27,pface 1
+6:28,pface 2
+6:28:30,pdetail (person 3)
+6:29,pbackground
+6:29:30,pface 1
+6:30,pface 2
+6:31,pinterface
+6:31:30,pface 1
+6:32,pcaption
+6:33,pdetail
+6:33,pface 1
+next pic 30,next pic 30
+6:34,uface 1
+6:34:30,ucaption
+6:38,ubackground
+6:39,ubackground
+6:39:30,ucaption
+6:40,uinterface
+next pic 31,next pic 31
+6:41,pface 1
+6:42,pface 2
+6:42:30,pdetail (person 1)
+6:43,pdetail
+6:43:30,pcaption
+6:44,pdetail (person 1)
+6:45,pface 3
+6:45:30,pdetail (person 4)
+6:46,pcaption
+6:47,pdetail (person 1)
+next pic 32,next pic 32
+6:49,uface 1
+6:49:30,udetail
+6:50,ucaption
+6:52,uinterface
+6:52:30,udetail
+6:54,udetail (person 1)
+next pic 33,next pic 33
+6:56,pdetail (person 1)
+6:56:30,pface 1
+6:57,pcaption
+6:57,pdetail (person 1)
+6:58,pcaption
+6:59,pdetail
+6:59:30,pcaption
+7:02,pdetail (person 1)
+7:02:30,pface 1
+7:03,pcaption
+7:05,pdetail (person 1)
+next pic 34,next pic 34
+7:06,uface 1
+7:06:30,uinterface
+7:07,ucaption
+7:07:30,uface 1
+7:08,ubackground
+7:09,ubackground
+7:09:30,uextraneous object
+7:11,ubackground
+7:11:30,ubackground
+7:12,ubackground
+7:12:30,ubackground
+7:13,ubackground
+next pic 35,next pic 35
+7:13:30,pface 1
+7:14,pdetail (person 1)
+7:14:30,pextraneous object
+7:15,pcaption
+7:15:30,pdetail (person 1)
+7:16,pdetail (person 1)
+7:16:30,pbackground
+7:17,pdetail (person 1)
+7:17:30,pdetail (person 1)
+7:18,pface 1
+next pic 36,next pic 36
+7:18,uface 1
+7:18:30,udetail (person 2)
+7:19,ucaption
+7:19:30,uface 3
+7:20,udetail (person 3)
+7:20:30,uface 4
+7:21,uface 5
+7:22,udetail
+7:22:30,ucaption
+next pic 37,next pic 37
+7:25,uface 1
+7:25:30,uinterface
+7:26,udetail
+7:26:30,udetail
+7:27,uface 2
+7:27:30,uface 1
+7:28,ucaption
+7:30,uinterface
+7:30:30,uface 1
+next pic 38,next pic 38
+7:31,pdetail
+7:31:30,pface 1
+7:32,pdetail
+7:33,pbackground
+7:34,pcaption
+7:35,pface 1
+7:35:30,pface 2
+7:36,pface 1
+7:37,pbackground
+7:37:30,pdetail (person 1)
+7:38,pinterface
+7:38:30,pdetail
+7:39,pdetail (person 1)
+next pic 39,next pic 39
+7:39:30,uface 1
+7:40,udetail
+7:40,uface 2
+7:41:00,uface 1
+7:41:30,uextraneous object
+7:42,ucaption
+7:42:30,udetail
+next pic 40,next pic 40
+7:44,pface 1
+7:45,pdetail (person 1)
+7:45:30,pdetail (person 1)
+7:47,pdetail (person 1)
+7:48,pdetail (person 1)
+7:48:30,pcaption
+7:52,pinterface
+7:52:30,pcaption
+7:53,pdetail (person 1)
+7:54,pbackground
+7:55,pdetail
+7:55,pdetail (person 1)
+7:55:30,pdetail (person 1)
+7:56,pdetail
+7:56:30,pface 1
+7:57,pdetail (person 1)
+7:57:30,pdetail (person 1)
+next pic 41,next pic 41
+7:58,udetail
+7:58:30,uinterface
+7:59,ucaption
+8:00,udetail
+8:00:30,uinterface
+8:02,ubackground
+8:02:30,udetail
+next pic 42,next pic 42
+8:03,pface 1
+8:03:30,pinterface
+8:04,pface 1
+8:04:30,pinterface
+8:05,pcaption
+8:06,pdetail (person 1)
+8:06:30,pdetail
+8:07,pinterface
+next pic 43,next pic 43
+8:08,udetail
+8:09,udetail
+8:10,udetail
+8:10:30,ucaption
+8:12,uinterface
+8:12:30,ucaption
+next pic 44,next pic 44
+8:16,pdetail (person 1)
+8:16:30,pface 1
+8:17,pinterface
+8:17:30,pdetail (person 1)
+8:18,pinterface
+8:19,pcaption
+8:20,pface 1
+8:20:30,pdetail (person 1)
+8:21,pinterface
+8:21:30,pcaption
+8:24,pface 1
+8:25,pdetail (person 1)
+8:26,pdetail (person 2)
+next pic 45,next pic 45
+8:26,uface 1
+8:27,uface 2
+8:28,uinterface
+8:28:30,ucaption
+8:29,uinterface
+8:29:30,uface 3
+8:30,uface 1
+8:30:30,uface 4
+8:31,uinterface
+next pic 46,next pic 46
+8:34,pdetail
+8:35,pcaption
+8:39,pinterface
+8:39:30,pdetail
+8:40,pcaption
+8:42,pdetail
+8:43,pdetail
+8:44,pinterface
+8:44:30,pdetail
+8:45,pdetail
+8:45:30,pdetail
+8:46,pdetail
+next pic 47,next pic 47
+8:48,uface 1
+8:48:30,uinterface
+8:49,ucaption
+8:50,uinterface
+next pic 48,next pic 48
+8:51,pface 1
+8:51:30,pface 2
+8:52,pcaption
+8:54,pface 2
+8:54:30,pface 3
+8:55,pface 2
+8:55:30,pinterface
+8:57,pdetail (person 2)
+8:57:30,pface 1
+8:58,pface 4
+next pic 49,next pic 49
+8:58:30,uface 1
+8:59,uinterface
+8:59,ucaption
+9:01,uface 1
+9:01:30,uface 2
+9:02,uextraneous detail
+9:02:30,uinterface
+9:03,udetail (person 1)
+9:03:30,uface 1
+9:04,uinterface
+next pic 50,next pic 50
+9:04,pdetail (person 1)
+9:05,pface 1
+9:05:30,pinterface
+9:06,pdetail (person 1)
+9:07,pcaption
+9:08,pinterface
+9:08:30,pdetail
+9:09,pdetail (person 1)
+9:09:30,pdetail (person 1)
+9:10,pface 1
+next pic 51,next pic 51
+9:11,pface 1
+9:11:30,pdetail (person 2)
+9:12,pinterface
+9:12:30,pcaption
+9:13,pdetail (person 1)
+9:14,pdetail (person 2)
+9:14:30,pdetail (person 2)
+next pic 52,next pic 52
+9:15,ubackground
+9:15:30,udetail (person 1)
+9:16,udetail
+9:17,uinterface
+9:17:30,ucaption
+9:18,ubackground
+9:18:30,udetail (person 1)
+9:19,uinterface
+9:19:30,ubackground
+9:20,uinterface
+next pic 53,next pic 53
+9:22,uface 1
+9:22:30,uface 2
+9:23,uinterface
+9:23:30,ucaption
+next pic 54,next pic 54
+9:25,pdetail (person 1)
+9:26,pdetail (person 2)
+9:27,pdetail (person 3)
+9:28,pinterface
+9:30,pcaption
+9:33,pdetail (person 1)
+9:34,pdetail (person 2)
+next pic 55,next pic 55
+9:35,udetail
+9:36,uinterface
+9:36:30,ucaption
+9:37,udetail
+9:37:30,udetail
+next pic 56,next pic 56
+9:41,udetail
+9:41:30,udetail
+9:42,uinterface
+9:44,ucaption
+9:46,ubackground
+next pic 57,next pic 57
+9:46,pdetail
+9:47,pdetail
+9:47:30,pinterface
+9:48,pbackground
+9:48:30,pdetail
+9:48,pinterface
+9:48,pbackground
+9:49,pdetail
+9:50,pdetail
+9:50:30,pface 1
+9:51,pdetail
+9:52,pbackground
+9:52:30,pface 1
+9:53,pbackground
+9:53:30,pdetail
+next pic 58,next pic 58
+9:54,udetail
+9:56,udetail (person 1)
+9:56:30,ubackground
+next pic 59,next pic 59
+9:57,pdetail (person 1)
+9:58,pdetail (person 1)
+9:58:30,pinterface
+9:59,pdetail (person 1)
+10:00,pcaption
+10:01,pdetail (person 1)
+10:01:30,pdetail (person 1)
+10:02,pdetail (person 1)
+10:02:30,pcaption
+10:10,pdetail (person 1)
+next pic 60,next pic 60
+10:11,pface 1
+10:11:30,pinterface
+10:12,pface 2
+10:12:30,pface 3
+10:13,pdetail
+10:13:30,pdetail
+10:14,pinterface
+10:14:30,pcaption
+10:15:30,pinterface
+10:16,pdetail
+10:16:30,pdetail
+next pic 61,next pic 61
+10:17,udetail
+10:18,udetail (person 1)
+10:18:30,udetail (person 2)
+10:19,uinterface
+10:20,udetail (person 2)
+10:20:30,ucaption
+10:21,uinterface
+10:21:30,ucaption
+next pic 62,next pic 62
+10:22:30,udetail
+10:24,uinterface
+10:24:30,udetail
+10:25,uface 1
+10:26,uinterface
+10:26:30,ucaption
+next pic 63,next pic 63
+10:28,pinterface
+10:29,pcaption
+10:31,pdetail
+next pic 64,next pic 64
+10:32,pdetail
+10:32:30,pface 1
+10:33,pinterface
+10:34,pcaption
+next pic 65,next pic 65
+10:35,udetail (person 1)
+10:35:30,udetail (person 1)
+10:36,udetail (person 1)
+10:37,uinterface
+10:37:30,uface 1
+10:38,ucaption
+10:39,udetail (person 1)
+10:39:30,uinterface
+10:40,udetail (person 1)
+next pic 66, next pic 66
+10:40:30,udetail
+10:41,udetail
+10:41:30,udetail
+10:42,uinterface
+10:42:30,ucaption
+10:43,uinterface
+next pic 67,next pic 67
+10:46,pdetail
+10:47,pface 1
+10:47:30,pdetail (person 1)
+10:48,pface 2
+10:48:30,pface 1
+10:49,pinterface
+10:49:30,pface 1
+next pic 68,next pic 68
+10:50,uface 1
+10:52,udetail (person 1)
+10:52:30,uinterface
+10:53,ucaption
+next pic 69,next pic 69
+10:55,pface 1
+10:55:30,pface 2
+10:56,pinterface
+10:57,pface 1
+10:57:30,pdetail
+10:58,pface 2
+10:58:30,pface 1
+10:59,pinterface
+10:59:30,pface 2
