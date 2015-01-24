@@ -7,4 +7,4 @@ csv_to_sds:
 	@python scripts/csv_to_sds.py csv/509015.csv > sds/509015.sds
 
 cat:
-	@cd sds && cat header.sds > all.sds
+	@cd sds && cat header.sds 509015.sds > all.sds

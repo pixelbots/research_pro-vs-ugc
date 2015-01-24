@@ -1,0 +1,425 @@
+onset time,description
+next pic 1,next pic 1
+0:09,pface 1
+0:10,pinterface
+0:11,pface 1
+0:12,pinterface
+0:12:30,pface 1
+0:13,pface 2
+0:14,pinterface
+0:15,pface 1
+0:16,pface 2
+0:16:30,pface 1
+0:17,pinterface
+0:19,pclick out
+next pic 2,next pic 2
+0:20,pface 1
+0:20:30,pinterface
+0:21,pface 1
+0:21:30,pdetail
+0:22,pdetail
+0:22:30,pinterface
+0:23,pface 1
+0:23:30,pdetail (person 2)
+0:24,pinterface
+0:27,pclick out
+next pic 3,next pic 3
+0:28,pface 1
+0:28:30,pcaption
+0:30,pinterface
+0:38,pclick out
+next pic 4,next pic 4 (bad tracking)
+next pic 5,next pic 5 (bad tracking)
+0:49,pdetail (person 1)
+next pic 6,next pic 6 (didn't load)
+next pic 7,next pic 7
+1:08,pface 1
+1:09,pface 2
+1:09:30,pdetail (person 1)
+1:10,pcaption
+1:12,pface 1
+1:13,pcaption
+1:14,pinterface
+1:17,pclick out
+next pic 8,next pic 8 (bad tracking)
+next pic 9,next pic 9
+1:25,pface 1
+1:25:30,pface 2
+1:26,pface 3
+1:27,pinterface
+1:28,pdetail (person 3)
+1:29,pinterface
+1:29:30,pclick out
+next pic 10,next pic 10
+1:30,uinterface
+1:31,udetail
+1:31:30,ubackground
+1:32,uinterface
+1:34,udetail
+1:34:30,uinterface
+1:35,uclick out
+next pic 11,next pic 11
+1:36,udetail (person 1)
+1:37,uinterface
+1:37:30,udetail
+1:38,udetail (person 2)
+1:39,udetail words
+1:40,uinterface
+1:40:30,uface 1
+1:41,uinterface
+1:44,uclick out
+next pic 12,next pic 12 (bad tracking)
+1:45,udetail (person 1)
+1:46,uinterface
+1:49,uclick out
+next pic 13,next pic 13
+1:50,pface 1
+1:51,pinterface
+1:52,pface 1
+1:53,pinterface
+1:54,pclick out
+next pic 14,next pic 14
+1:55,pcaption
+1:56,pdetail (person 1)
+1:56:30,pcaption
+1:59,pdetail (person 1)
+1:59,pdetail (person 2)
+2:00,pinterface
+2:03,pclick out
+next pic 15,next pic 15
+2:04,udetail (person 1)
+2:05,udetail
+2:06,uinterface
+2:10,uclick out
+next pic 16,next pic 16 (didn't load)
+next pic 17,next pic 17
+2:20,udetail
+2:21,uinterface
+2:28,uclick out
+next pic 18,next pic 18 (bad tracking)
+next pic 19,next pic 19 (bad tracking)
+next pic 20,next pic 20 (bad tracking)
+next pic 21,next pic 21 (bad tracking
+next pic 22,next pic 22 (bad tracking)
+next pic 23,next pic 23 (bad tracking)
+next pic 24,next pic 24 (bad tracking)
+next pic 25,next pic 25 (bad tracking)
+next pic 26,next pic 26 (bad tracking)
+next pic 27,next pic 27 (bad tracking)
+next pic 28,next pic 28 (bad tracking)
+next pic 29,next pic 29 (bad tracking)
+next pic 30,next pic 30 (bad tracking)
+next pic 31,next pic 31 (bad tracking)
+next pic 32,next pic 32 (bad tracking)
+next pic 33,next pic 33
+4:04,pdetail (person 1)
+4:04:30,pdetail
+4:05,pinterface
+4:06,pclick out
+next pic 34,next pic 34
+,
+SKIP TO 65,SKIP TO PIC 65
+7:16,uface 1
+7:17,uinterface
+7:17:30,ucaption
+7:18,uinterface
+7:20,udetail (person 1)
+7:20:30,uface 1
+7:21,uclick out
+next pic 66,next pic 66
+7:21,uinterface
+7:22,udetail
+7:23,uinterface
+7:23:30,udetail
+7:24,uinterface
+7:24:30,udetail (dog)
+7:25,uinterface
+7:26,uclick out
+next pic 67,next pic 67
+7:27,pface 1
+7:27:30,pcaption
+7:28,pface 1
+7:28:30,pface 2
+7:29,pcaption
+7:29:30,pinterface
+7:31,pface 1
+7:31:30,pinterface
+7:32,pclick out
+next pic 68,next pic 68
+7:33,uface 1
+7:33:30,uinterface
+7:35,udetail
+7:35:30,ucaption
+7:36,uinterface
+7:38,uclickou
+next pic 69,next pic 69
+7:39,pface 1
+7:40,pdetail
+7:40:30,pdetail
+7:41,pface 2
+7:41:30,pinterface
+7:42,pface 1
+7:43,pface 2
+7:44,pinterface
+7:44:30,pdetail
+7:45,pcaption
+7:45:30,pclick out
+next pic 70,next pic 70
+7:46:30,pdetail words
+7:47,pface 1
+7:47:30,pinterface
+7:48,pdetail
+7:48:30,pcaption
+7:50,pinterface
+7:50:30,pdetail
+7:51,pinterface
+7:51:30,pface 1
+7:52,pdetail (person 2
+7:53,pdetail (person 3)
+7:53:30,pdetail (person 4
+7:54,pinterface
+7:54:30,pdetail (person 2)
+7:55,pdetail (person 3)
+7:55:30,pclick out
+next pic 71,next pic 71
+7:56:30,udetail
+7:57,udetail words
+7:57:30,ucaption
+7:58,uinterface
+7:59,uclick out
+next pic 72,next pic 72
+8:00,udetail words
+8:01,udetail words
+8:01:30,uface 1
+8:02,uinterface
+8:03:30,uface 1
+8:03,udetail words
+8:03:30,uinterface
+8:05,uclick out
+next pic 73, next pic 73
+8:07,pdetail (person 1)
+8:08,pdetail (person 2)
+8:08:30,pinterface
+8:10,pcaption
+8:11,pclick out
+next pic 74,next pic 74
+8:12,uface 1 (dog)
+8:12:30,ucaption
+8:13,uface 1 (dog)
+8:14,uinterface
+8:15,uface 1 (dog)
+8:16,ucaption
+8:16:30,uface 1 (dog)
+8:17,udetail
+8:18,uinterface
+8:19,uface 1 (dog)
+8:20,uclick out
+next pic 75,next pic 75
+8:21,pface 1
+8:21:30,pinterface
+8:22,pdetail
+8:22:30,pdetail
+8:23,pdetail
+8:24,pinterface
+8:24:30,pface 1
+8:25,pclick out
+next pic 76,next pic 76
+8:26,pface 1
+8:26:30,pface 2
+8:27,pinterface
+8:27:30,pdetail (person 1)
+8:28,pface 3
+8:28:30,pinterface
+8:30,pclick out
+next pic 77,next pic 77
+8:32,pface 1
+8:33,pface 2
+8:33:30,pface 1
+8:34,pinterface
+8:37,pface 2
+8:38:30,pinterface
+8:39,pclick out
+next pic 78,next pic 78
+8:40,uface 1
+8:40:30,uface 2
+8:41,uface 3
+8:41:30,uface 1
+8:42,uface 2
+8:42:30,uinterface
+8:44,udetail
+8:44:30,uinterface
+8:45,uclick out
+next pic 79,next pic 79
+8:46,udetail words
+8:46,uface 1
+8:47,uinterface
+8:49,uclick out
+next pic 80,next pic 80
+8:50,pface 1
+8:51,pcaption
+8:52,pdetail
+8:52,pface 1
+8:53,pinterface
+8:54,pface 1
+8:54,pdetail
+8:55,pinterface
+8:55:30,pcaption
+8:56,pclick out
+next pic 81,next pic 81
+8:57,udetail
+8:57:30,udetail
+8:58,ucaption
+8:58,uface 1
+8:59,uface 2
+8:59:30,uface 3
+9:00,uinterface
+9:00:30,uface 1
+9:01,uinterface
+9:04,uclick out
+next pic 82,next pic 82
+9:05,udetail (person 1)
+9:06,uinterface
+9:08,uclick out
+next pic 83,next pic 83
+9:09,pface 1
+9:09:30,pdetail
+9:10,pcaption
+9:11,pface 1
+9:11:30,pinterface
+9:12,pdetail
+9:13,pcaption
+9:13:30,pinterface
+9:14,pclick out
+next pic 84,next pic 84
+9:15,uface 1
+9:16,udetail
+9:17,uinterface
+9:17:30,udetail
+9:18,uinterface
+9:19,uface 1
+9:19:30,uinterface
+9:21,uclick out
+next pic 85,next pic 85
+9:22,pdetail (person 1)
+9:22:30,pdetail (person 2)
+9:23,pdetail (person 3)
+9:23:30,pinterface
+9:24,pdetail
+9:24:30,pdetail (person 1)
+9:25,pinterface
+9:25:30,pdetail
+9:26,pclick out
+next pic 86,next pic 86
+9:27,pface 1
+9:27:30,pcaption
+9:28,pdetail
+9:28:30,pcaption
+9:29,pface 1
+9:29:30,pdetail
+9:30,pface 1
+9:30:30,pinterface
+9:31,pcaption
+9:32,pclick out
+next pic 87,next ppic 87
+9:33,udetail words
+9:34,uface 1
+9:34:30,uface 2
+9:35,udetail words
+9:35:30,udetail words
+9:36,uinterface
+9:37,udetail words
+9:38,uinterface
+9:40,uclick out
+next pic 88,next pic 88
+9:41,pdetail
+9:41:30,pinterface
+9:43,pdetail
+9:43:30,pclick out
+next pic 89,next pic 89
+9:44,uface 1
+9:44:30,udetail words
+9:45,uinterface
+9:45:30,udetail (person 1)
+9:46,uface 1
+9:46:30,udetail
+9:47,uinterface
+9:48,udetail words
+9:49,uclick out
+next pic 90,next pic 90
+9:50,pdetail (person 1)
+9:50:30,pface 1
+9:51,pinterface
+9:51:30,pdetail (person 1)
+9:52,pinterface
+9:55,pclick out
+next pic 91,next pic 91
+9:56,udetail
+9:56:30,udetail (dog)
+9:57,uinterface
+9:59,uclick out
+next pic 92,next pic 92
+10:01,pdetail (person 1)
+10:01:30,pdetail (person 2)
+10:02,pcaption
+10:04,pinterface
+10:05,pdetail (person 1)
+10:06,pdetail (person 2)
+10:06:30,pinterface
+10:07,pdetail (person 1)
+10:08,pinterface
+10:10,pclick out
+next pic 93,next pic 93
+10:11,uface 1
+10:11:30,uface 2
+10:12,uinterface
+10:12:30,uface 1
+10:13,uinterface
+10:13:30,uclick out
+next pic 94,next pic 94
+10:15,udetail (person 1)
+10:16,uinterface
+10:17,udetail
+10:17:30,udetail (person 2)
+10:18,uinterface
+10:18:30,uclick out
+next pic 95,next pic 95
+10:19,pdetail (person 1)
+10:20,pdetail
+10:20:30,pinterface
+10:21,pdetail (person 2)
+10:22,pinterface
+10:24,pdetail (person 1)
+10:25,pdetail (person 2)
+10:25,pface 1
+10:26,pclick out
+next pic 96,next pic 96
+10:27,pface 1
+10:27:30,pdetail words
+10:28,pinterface
+10:29,pclick out
+next pic 97,next pic 97
+10:30,uface 1 (dog)
+10:31,udetail (person 2)
+10:32,uinterface
+10:34,uface 1 (dog)
+10:34:30,uface 2
+10:35,uinterface
+10:38,uclick out
+next pic 98,next pic 98
+10:42,pdetail (person 1)
+10:43,pinterface
+10:46,pcaption
+10:47,pinterface
+10:48:00,pface 1
+10:49:30,pinterface
+10:50,pclick out
+next pic 99,next pic 99
+10:52,udetail (person1) 
+10:53,udetail (person 2)
+10:53:30,uinterface
+10:58,udetail
+10:58:30,uinterface
+10:59,udetail (person 1)
+10:59:30,uinterface
+11:02,udetail
+11:04,uclick out
