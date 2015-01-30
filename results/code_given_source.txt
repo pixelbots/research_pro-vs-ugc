@@ -1,0 +1,72 @@
+sessions-pooled	n=25
+
+Codes:	freq	relf	dura	reld	prob	avgD
+action	1014	.04	1877.5	.06	.11	1.852
+body	2107	.09	1760.8	.05	.11	0.836
+caption	1520	.06	4921.8	.15	.30	3.238
+detail	1998	.08	1541.1	.05	.09	0.771
+face	4961	.21	5876.4	.18	.36	1.185
+pro	7456	.31	10377.7	.32	.64	1.392
+ugc	4414	.19	5959.9	.18	.36	1.350
+ui	87	.00	165.2	.01	.01	1.899
+unknown	251	.01	187.2	.01	.01	0.746
+words	16	.00	16.0	.00	.00	1.000
+Totals	23824	1.00	32683.6	1.00	2.00
+#Units:	16336.5	seconds
+
+_________________________
+
+File:	all.mds
+Made:	MDS file saved by SDIS compiler Version 5.1 1/25/2015 8:57:54 PM
+Type:	State
+Units:	1/10 seconds
+
+2x2 table stats computed pair-wise.
+sessions-pooled	n=25
+
+JNTF	Target:
+Given:	action	body	caption	detail	face	&	Totals
+pro	9282	14778	35075	6731	36161	1750	103777
+ugc	9493	2827	14140	8668	22534	1926	59588
+&	0	0	0	0	0	0	0
+Totals	18775	17605	49215	15399	58695	3676	163365
+
+EXPF	Target:
+Given:	action	body	caption	detail	face	&
+pro	11926.75	11183.51	31263.64	9782.16	37285.78	2335.17
+ugc	6848.25	6421.49	17951.36	5616.84	21409.22	1340.83
+&	0.00	0.00	0.00	0.00	0.00	0.00
+
+CONP	Target:
+Given:	action	body	caption	detail	face	&
+pro	.09	.14	.34	.06	.35	.02
+ugc	.16	.05	.24	.15	.38	.03
+&	.00	.00	.00	.00	.00	.00
+
+RSDL	Target:
+Given:	action	body	caption	detail	face	&
+pro	-2644.75	3594.49	3811.36	-3051.16	-1124.78	-585.17
+ugc	2644.75	-3594.49	-3811.36	3051.16	1124.78	585.17
+&	0.00	0.00	0.00	0.00	0.00	0.00
+
+ADJR	Target:
+Given:	action	body	caption	detail	face	&
+pro	-42.62	59.58	42.70	-53.67	-12.05	-20.28
+ugc	42.62	-59.58	-42.70	53.67	12.05	20.28
+&	0.00	0.00	0.00	0.00	0.00	0.00
+
+PVAL	Target:
+Given:	action	body	caption	detail	face	&
+pro	<.01	<.01	<.01	~<.01	<.01	~<.01
+ugc	<.01	<.01	<.01	~<.01	<.01	~<.01
+&	~1.00	~1.00	~1.00	~1.00	~1.00	~1.00
+
+LNOR	Target:
+Given:	action	body	caption	detail	face	&	SE	action	body	caption	detail	face	&
+pro	-0.66	1.20	0.50	-0.90	-0.13	-0.67		0.02	0.02	0.01	0.02	0.01	0.03
+ugc	0.66	-1.20	-0.50	0.90	0.13	0.67		0.02	0.02	0.01	0.02	0.01	0.03
+&	undef	undef	undef	undef	undef	undef		undef	undef	undef	undef	undef	undef
+
+XSQ	9153.22	df=10	p=<.01
+GSQ	9431.47	df=10	p=<.01
+_________________________
